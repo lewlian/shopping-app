@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+External project with the provided UIs below:
+![alt text](https://raw.githubusercontent.com/lewlian/shopping-app/UI/photo_2019-11-18_15-21-19.jpg)

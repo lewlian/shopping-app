@@ -16,4 +16,8 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 External project with the provided UIs below:
-![Image Description](https://github.com/lewlian/shopping-app/blob/master/UI/photo_2019-11-18_15-21-19.jpg)
+![Login Page](https://github.com/lewlian/shopping-app/blob/master/UI/photo_2019-11-18_15-21-19.jpg)
+![Home Page](https://github.com/lewlian/shopping-app/blob/master/UI/photo_2019-11-18_15-21-44.jpg)
+![Categories Page](https://github.com/lewlian/shopping-app/blob/master/UI/photo_2019-11-18_15-21-50.jpg)
+![Cart Page](https://github.com/lewlian/shopping-app/blob/master/UI/photo_2019-11-18_15-21-53.jpg)
+![Checkout Page](https://github.com/lewlian/shopping-app/tree/master/UI)
